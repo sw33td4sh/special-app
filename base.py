@@ -3,7 +3,7 @@ import datetime
 
 message1 = {
   'name': 'Lera',
-  'text': 'Im lesbian and whore!',
+  'text': 'Im lesbian!',
   'time': time.time()
 }
 
